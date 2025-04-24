@@ -29,7 +29,7 @@ With a deep passion for technology and a strong eagerness to learn, I’m always
 
 - 📧 Email: dlnhatpy0301@gmail.com
 
-- 🔗 LinkedIn: [linkedin.com/in/dolongnhat]([linkedin.com/in/dolongnhat](https://www.linkedin.com/in/dolongnhat/))
+- 🔗 LinkedIn: [linkedin.com/in/dolongnhat](https://www.linkedin.com/in/dolongnhat/)
 
 Thanks for visiting my profile! Let's connect and build something amazing together! 🚀
 
