@@ -19,7 +19,7 @@ With a deep passion for technology and a strong eagerness to learn, I’m always
 
 - Frontend: React.js, Next.js, Tailwind CSS, Antd
 
-- Backend: Spring Boot, Node.js (ExpressJs, NestJs)
+- Backend: Spring Boot, Spring Frameworks, NestJs
 
 - Databases: MySQL, Redis
 
